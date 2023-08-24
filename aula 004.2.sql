@@ -1,0 +1,1 @@
+select nome,ibge from cidade where nome like '%ão%paulo%';
